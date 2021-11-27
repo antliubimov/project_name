@@ -2,7 +2,7 @@
   "name": "project_name",
   "version": "1.0.0",
   "description": "Test GitHub Actions Deploy",
-  "homepage": "https://{login}.github.io/{project_name}",
+  "homepage": "https://antliubimov.github.io/project_name",
   "main": "index.js",
   "scripts": {
     "serve": "browser-sync start --server src --no-notify --no-ui --cwd src --files index.html,styles/**/*",
@@ -15,7 +15,7 @@
   "keywords": [
     "github-actions"
   ],
-  "author": "Alyona Siprikova",
+  "author": "Anton Liubimov",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.26.7",
